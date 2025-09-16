@@ -3,18 +3,33 @@
 	background-color:#f8f8f8;
 }
 
-h3{
+h1{
 	text-align:center;
 }
 
-.image{
+h2{
+	text-align:center
+}
+
+.image1{
 	width:100px;
 	height:150px;
-	margin-left:60px;
+	margin-left:95px;
+	}
+
+.image2{
+	width:100px;
+	height:150px;
+	}
+
+.image3{
+	width:100px;
+	height:150px;
 	}
 
 .author{
 	color:#777777;
+	text-align:center;
 }
 
 .price{
