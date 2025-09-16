@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f8f8f8;
+}
+
+h3{
+	text-align:center;
+}
+
+.image{
+	width:100px;
+	height:150px;
+	margin-left:60px;
+	}
+
+.author{
+	color:#777777;
+}
+
+.price{
+	width:300px;
+	height:20px;
+	background-color:#2ecc71;
+	text-align:center;
+	
+}
+
+
+.book-library{
+	width:300px;
+	height:800px;
+	background-color:#ffffff;
+	box-shadow:0 0 10px rgba(0,0,0,0.5);
+}
+	
+.book{
+	padding-top:10px;
+}
+
+
+
